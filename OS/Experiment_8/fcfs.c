@@ -3,8 +3,7 @@ int main(){
     int n;
     printf("Enter number of processes :");
     scanf("%d",&n);
-    int bt[n],pID[n];
-    int wt[n];
+    int bt[n],pID[n],wt[n];
     int tat[n], at[n] , ct[n];
     int ttat =0, twt =0;
     wt[0]=0 ;
@@ -15,7 +14,7 @@ int main(){
         scanf("%d",&at[i]);
         printf("Enter bust time of processe :",i+1);
         scanf("%d",&bt[i]);
-        ct[0] = bt[0];
+        ct[0] = bt[0]+at[0];
     }
     for(int i=0;i<n;i++){
         ct[i+1]= ct[i] + bt[i+1];
