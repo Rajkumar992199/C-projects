@@ -6,6 +6,7 @@
  - <u> Count Character: </u> Counting characters in an array involves iterating through the array, tallying occurrences of each character, and storing counts. <br>
  - <u> Delete Element: </u> Deleting an element from an array involves finding the element, shifting subsequent elements left, and reducing the array's size. <br>
  - <u> Display By Pointer: </u> Displaying an array by pointer involves iterating through the array using a pointer, printing each element sequentially. <br>
+ - <u> Insert Element: </u> Inserting elements into an array involves shifting subsequent elements right, placing the new element at the desired position. <br>
 #Experiment-8: <br>
 * <u>FCFS </u> is program of FCFS scheduling.<br>
 * <u>Round_Robin </u> is program of Round Robin scheduling.
