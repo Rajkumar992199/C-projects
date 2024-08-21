@@ -8,6 +8,7 @@
  - <u> Display By Pointer: </u> Displaying an array by pointer involves iterating through the array using a pointer, printing each element sequentially. <br>
  - <u> Insert Element: </u> Inserting elements into an array involves shifting subsequent elements right, placing the new element at the desired position. <br>
  - <u> Row Major: </u> A row-major array stores elements in consecutive memory locations by rows, optimizing access for row-based operations. <br>
+ - <u> Search Element: </u> Searching for an element in an array involves iterating through the array and comparing each element to the target value. <br>
 #Experiment-8: <br>
 * <u>FCFS </u> is program of FCFS scheduling.<br>
 * <u>Round_Robin </u> is program of Round Robin scheduling.
