@@ -10,6 +10,8 @@
  - <u> Row Major: </u> A row-major array stores elements in consecutive memory locations by rows, optimizing access for row-based operations. <br>
  - <u> Search Element: </u> Searching for an element in an array involves iterating through the array and comparing each element to the target value. <br>
  - <u> Sort Element: </u> Sorting elements in an array involves rearranging the elements in a specific order, typically ascending or descending, using a sorting algorithm. <br>
+ * <u> Stack: </u> <br>
+ - <u> Pop: </u> Popping in a stack involves removing the top element, adjusting the top pointer, and returning the removed element. <br>
 #Experiment-8: <br>
 * <u>FCFS </u> is program of FCFS scheduling.<br>
 * <u>Round_Robin </u> is program of Round Robin scheduling.
