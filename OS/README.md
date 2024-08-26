@@ -13,6 +13,7 @@
  * <u> Stack: </u> <br>
  - <u> Pop: </u> Popping in a stack involves removing the top element, adjusting the top pointer, and returning the removed element. <br>
  - <u> Push: </u> Pushing in a stack involves adding an element to the top, adjusting the top pointer, and increasing the stack size. <br>
+ - <u> Stack: </u> Implementing a stack involves creating an array or linked list, defining `push` and `pop` methods, and managing the top pointer. <br>
 #Experiment-8: <br>
 * <u>FCFS </u> is program of FCFS scheduling.<br>
 * <u>Round_Robin </u> is program of Round Robin scheduling.
